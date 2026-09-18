@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Molécula 3D - ATP</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 8px;
+    }
+
+    p {
+      color: #aaaaaa;
+      font-size: 0.95rem;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      height: 70vh;
+      background-color: #1e1e1e;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .sketchfab-embed-wrapper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .sketchfab-embed-wrapper iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Trifosfato de Adenosina (ATP)</h1>
+    <p>Interactúa con la molécula directamente desde el visor 3D.</p>
+  </header>
+
+  <div class="container">
+    <div class="sketchfab-embed-wrapper">
+      <!-- PEGA AQUÍ TU CÓDIGO DE SKETCHFAB --><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Molécula 3D - ATP</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 8px;
+    }
+
+    p {
+      color: #aaaaaa;
+      font-size: 0.95rem;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      height: 70vh;
+      background-color: #1e1e1e;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .sketchfab-embed-wrapper {
+      width: 100%;
+      height: 100%;
+    }
+
+    .sketchfab-embed-wrapper iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Trifosfato de Adenosina (ATP)</h1>
+    <p>Interactúa con la molécula directamente desde el visor 3D.</p>
+  </header>
+
+  <div class="container">
+    <div class="sketchfab-embed-wrapper">
+      
+https://www.meshy.ai/s/DToR4N
+      <iframe title="ATP Molecule" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share 
+    </div>
+  </div>
+
+</body>
+</html>
+      <iframe title="ATP Molecule" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/AQUÍ_VA_EL_ID_DE_TU_MODELO/embed"></iframe>
+    </div>
+  </div>
+
+</body>
+</html>
